@@ -25,3 +25,14 @@ body {
     display: grid;
     place-items: center;
 }
+
+.floating-stack {
+    width: 320px;
+    height: 80vh;
+
+    background-color: #455a64;
+    color: #ffffff;
+
+    border-radius: 1rem;
+    overflow-y: auto;
+}
