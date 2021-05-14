@@ -1,4 +1,7 @@
 .mouse-cursor-gradient-tracking {
     background-color: #7983ff;
+
+    font-size: 1.2em;
+    border: none;
     padding: 0.5rem 1rem;
 }
